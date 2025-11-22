@@ -1,6 +1,7 @@
 # Fake-NEWS-Detection
 
 📰 Fake News Detection 🤖🚫
+
 📋 Project Overview
 Detects whether a given news article or headline is real or fake using cutting-edge machine learning algorithms. This project aims to help combat misinformation and promote factual reporting online.
 🔍✨
