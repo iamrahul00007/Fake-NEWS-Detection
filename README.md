@@ -19,22 +19,30 @@ Detects whether a given news article or headline is real or fake using cutting-e
 
 📁 Clean and organized project structure
 
+
 🗂️ Dataset
+
+
 Utilizes a labeled dataset of news articles:
 
 🟩 True news articles
 
 🟥 Fake news articles
 
+
 📝 Usage
+
+
 Enter a news headline or article when prompted.
 
 The model will output whether the news is Real ✅ or Fake ❌ along with a confidence score.
+
 
 🔬 Model Details
 Algorithms used: Logistic Regression, Decision Tree, Random Forest, or [specify model]
 
 Trained on balanced datasets for robust detection.
+
 
 📊 Results
 
@@ -42,6 +50,7 @@ Trained on balanced datasets for robust detection.
 High accuracy and reliability in distinguishing between real and fake news.
 
 Evaluation reports and model files included in the results/ directory.
+
 
 💡 Future Improvements
 
