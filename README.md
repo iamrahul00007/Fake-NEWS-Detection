@@ -8,6 +8,7 @@ Detects whether a given news article or headline is real or fake using cutting-e
 
 ⚡ Key Features
 
+
 🏷️ Classifies news as Real ✅ or Fake ❌
 
 📈 Uses state-of-the-art machine learning models
@@ -36,11 +37,15 @@ Algorithms used: Logistic Regression, Decision Tree, Random Forest, or [specify 
 Trained on balanced datasets for robust detection.
 
 📊 Results
+
+
 High accuracy and reliability in distinguishing between real and fake news.
 
 Evaluation reports and model files included in the results/ directory.
 
 💡 Future Improvements
+
+
 🌐 Add real-time web scraping for live detection.
 
 📱 Build a simple web or mobile interface.
