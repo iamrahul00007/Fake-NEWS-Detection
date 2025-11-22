@@ -7,6 +7,7 @@ Detects whether a given news article or headline is real or fake using cutting-e
 🔍✨
 
 ⚡ Key Features
+
 🏷️ Classifies news as Real ✅ or Fake ❌
 
 📈 Uses state-of-the-art machine learning models
